@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "DockerDemo": {
+      "commandName": "Project"
+    },
+    "Container (.NET SDK)": {
+      "commandName": "SdkContainer"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
